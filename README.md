@@ -28,6 +28,14 @@ This project focuses on training a YOLOv9 model for human detection in nano-size
    ```
 4. **Install Required Libraries**: YOLOv9 relies on PyTorch, OpenCV, and other libraries. Ensure they are installed.
 
+## Download YOLOv9 Files
+ 1. **YOLOv9 Weights**:
+ You can download pre-trained YOLOv9 weights from the official repository: YOLOv9 Weights
+
+ 2. **YOLOv9 Repository**:
+
+Clone or download the YOLOv9 repository from GitHub:
+
 ## Training
 
 ## Command for Training:
